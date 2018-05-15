@@ -229,3 +229,4 @@ Emitted when a photo is taken and stored internally (response to takePicture(opt
 
 Copyright (c) 2015 Acision. Licensed under the MIT license.
 # node-race
+# node-racer

@@ -1,4 +1,4 @@
-# node-sumo
+# node-race
 
 Control your Parrot Jumping Sumo drone using JavaScript!
 
